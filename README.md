@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Sion An and I’m a Ph.D. Candidate in Medical Image and Signal Processing Laboratory at Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by Professor Sang Hyun Park. I obtained my B.S. from DGIST in February 2020.
 
 <!--
 **SionAn/SionAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
