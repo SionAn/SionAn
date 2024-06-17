@@ -1,6 +1,9 @@
-Hi there 👋 
+My name is Sion An and I'm a Ph.D. Candidate in <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Professor Sang Hyun Park</a>.
+  I obtained my B.S. from DGIST in February 2020. 
 
-My name is Sion An and I’m a Ph.D. Candidate in Medical Image and Signal Processing Laboratory at Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by Professor Sang Hyun Park. I obtained my B.S. from DGIST in February 2020.
+  I'm currently researching meta-learning for personalized brain signal analysis. 
+  
+  My CV is <a href="https://sionan.github.io/" target="_blank">here</a>.
 
 <!--
 **SionAn/SionAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
